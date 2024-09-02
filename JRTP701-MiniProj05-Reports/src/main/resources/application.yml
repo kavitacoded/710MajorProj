@@ -1,0 +1,41 @@
+#server:
+#  port: 9091
+#spring:
+#  application:
+#    name: JRTP701-MiniProj05-Reports
+#  datasource:
+#      driver-class-name: com.mysql.cj.jdbc.Driver
+#      url: jdbc:mysql:///Report
+#      username: root
+#      password: 1234
+#  jpa:
+#       show-sql: true
+#       hibernate:
+#        ddl-auto: update
+#       database-platform: org.hibernate.dialect.MySQL8Dialect
+# # sql:
+#  #  init:
+#    #  mode: always
+#      
+
+
+
+server:
+  port: 9091
+spring:
+  application:
+    name: JRTP701-MiniProj04-ReportApiDevelopement
+  datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql:///Report
+      username: root
+      password: 1234
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+ # sql:
+  #  init:
+    #  mode: always
+      

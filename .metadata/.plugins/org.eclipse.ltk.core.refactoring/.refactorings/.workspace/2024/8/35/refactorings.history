@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JRTP701-MajorProj07-CorrospondanceAPI&apos; to &apos;JRTP701-MajorProj07-CorrespondanceAPI&apos;" description="Rename resource &apos;JRTP701-MajorProj07-CorrospondanceAPI&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JRTP701-MajorProj07-CorrospondanceAPI" name="JRTP701-MajorProj07-CorrespondanceAPI" stamp="1724651322902" updateReferences="true"/>
+</session>

@@ -1,0 +1,19 @@
+package com.nt.ms;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.nt.service.ICorrespondanceMgmtService;
+
+@RestController
+@RequestMapping("/co-triggers-api")
+public class CoTriggersOperationsController {
+
+	@Autowired
+	private ICorrespondanceMgmtService correspondanceService;
+	
+	
+	
+	
+}

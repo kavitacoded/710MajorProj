@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JRTP701-MiniProj06-UserMangmtRestApi/src/main/java/com/nt/service/user_registraion_body.txt&apos; to &apos;user_registration_body.txt&apos;" description="Rename resource &apos;user_registraion_body.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/nt/service/user_registraion_body.txt" name="user_registration_body.txt" stamp="1720172571014" updateReferences="true"/>
+</session>

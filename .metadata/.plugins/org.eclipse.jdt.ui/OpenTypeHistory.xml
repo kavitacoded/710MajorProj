@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=JRTP701-MiniProj02-FoodDelivery/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nt.service{IFoodItemService.java[IFoodItemService" modifiers="513" timestamp="1718102148936"/>
+    <typeInfo handle="=JRTP701-MiniProj01-CRUDOperations/C:\/Users\/pkavi\/.m2\/repository\/org\/hibernate\/orm\/hibernate-core\/6.5.2.Final\/hibernate-core-6.5.2.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate.orm=/=/maven.artifactId=/hibernate-core=/=/maven.version=/6.5.2.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(MySQL8Dialect.class[MySQL8Dialect" modifiers="1048609" timestamp="1716240261000"/>
+    <typeInfo handle="=JRTP701-MiniProj04-ReportApiDevelopement/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nt.service{ICourseMgmtService.java[ICourseMgmtService" modifiers="513" timestamp="1719307946661"/>
+    <typeInfo handle="=JRTP701-MiniProj05-Reports/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.nt.service{ICourseDetailsService.java[ICourseDetailsService" modifiers="513" timestamp="1719402913446"/>
+</typeInfoHistroy>

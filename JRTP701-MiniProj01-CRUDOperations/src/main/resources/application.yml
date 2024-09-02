@@ -1,0 +1,36 @@
+server:
+  port: 4041
+spring:
+  application:
+    name: JRTP701-MiniProj01-CRUDOperations
+#  datasource:
+#    dbcp2:
+#      driver-class-name: org.h2.Driver
+#    password: rani
+#    url: jdbc:h2:mem:testdb
+#    username: rani
+#  jpa:
+#    show-sql: true
+  datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql:///jrtpmini1
+      username: root
+      password: 1234
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+
+plan:
+  module: 
+    messages:
+     save-success: Travel Plan is saved with id value
+     save-failure: Travel Plan is not saved with value
+     find-by-id-failure: Travel Plan is not found
+     update-success: Travel Plan is updated
+     update-failure: Travel Plan is not found for updation
+     delete-success: Travel Plan is updated
+     delete-failure: Travel Plan is not Found
+     status-change-success: Travel Plan Status is changed
+     status-change-failure: Travel plan is not found for status change
